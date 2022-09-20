@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/102327565/191302924-cd188326-8dee-4e1b
     - Even easy difficulty is not that easy.
   * All difficulties use the Minimax algorithm in order for the AI to choose the best move.
   * Difficulties differ in how may moves the AI will foresee from the current Connect4 board.
-  * Alpha-Beta pruning was also used to eliminate irreasonable paths for the AI to for3see, thus reducing its computation time by a huge factor.
+  * Alpha-Beta pruning was also used to eliminate irreasonable paths for the AI to foresee, thus reducing its computation time by a huge factor.
   * Still the Very hard and Impossible difficulties take the AI a couple of minutes, as a matter of fact I am working on more optimizations for the minimax algorithm.
  
 ![difficulties](https://user-images.githubusercontent.com/102327565/191300734-68613dad-99c2-4b36-a49f-9f4fcae3a0e5.png)
