@@ -17,7 +17,7 @@ difficulties to choose from.
 ## Game Features:
   * Play against an AI or a friend on the same computer.
     - May work on an online multiplayer feature.
-  * Physics of both the pieces and board was impleemnted using the Pymunk Library.
+  * Physics of both the pieces and board was implemnted using the Pymunk Library.
   
 ![gameModes](https://user-images.githubusercontent.com/102327565/191301924-1130bbcc-8f02-4d1f-8d0b-cc280817d29a.png)
  
@@ -26,11 +26,11 @@ https://user-images.githubusercontent.com/102327565/191302924-cd188326-8dee-4e1b
 
 
 ## The AI:
-  * Currently there are 5 difficulties to choose from, but even the Easy difficulty is not that easy.
+  * Currently there are 5 difficulties to choose from.
     - Even easy difficulty is not that easy.
   * All difficulties use the Minimax algorithm in order for the AI to choose the best move.
-  * Difficulties differ in how may moves the AI will forsee from the current Connect4 board.
-  * Alpha-Beta pruning was also used to eliminate irreasonable paths for the AI to forsee, thus reducing its computation time by a huge factor.
+  * Difficulties differ in how may moves the AI will foresee from the current Connect4 board.
+  * Alpha-Beta pruning was also used to eliminate irreasonable paths for the AI to for3see, thus reducing its computation time by a huge factor.
   * Still the Very hard and Impossible difficulties take the AI a couple of minutes, as a matter of fact I am working on more optimizations for the minimax algorithm.
  
 ![difficulties](https://user-images.githubusercontent.com/102327565/191300734-68613dad-99c2-4b36-a49f-9f4fcae3a0e5.png)
