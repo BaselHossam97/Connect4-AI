@@ -3,7 +3,7 @@
 
 <hr>
 
-# CONNECT4
+
 
 My very first pygame project, a connect4 game where  you can either play against a friend or an AI with several 
 difficulties to choose from.
