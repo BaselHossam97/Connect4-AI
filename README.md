@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/102327565/191302924-cd188326-8dee-4e1b
 - [ ] Fix bugs with the UI.
 - [ ] Fix bugs with the AI.
 - [ ] Online multiplayer.
-- [ ] Add more gameplay options[ Choose colour of piece etc..].
+- [ ] Add more gameplay options [Choose colour of piece etc.. ].
 - [ ] Make the code more organized.
 
 
